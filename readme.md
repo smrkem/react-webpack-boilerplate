@@ -8,10 +8,12 @@ I'm still new to webpack, and tired of pasting in config I didn't fully understa
 
 Start a new project by cloning the repo and deleting the `.git` folder. Then install the packages:  
 - `$ npm install`  
-
+<br>
+  
 Build the project and start the dev server with:  
 - `$ npm start`  
-
+<br>
+  
 To make a production build run:  
 - `$ npm run build`  
 
