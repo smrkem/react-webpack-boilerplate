@@ -14,6 +14,7 @@ Build the project and start the dev server with:
 
 To make a production build run:  
 - `$ npm run build`  
+
 This will create a 'dist' folder (.gitignored) with the full app inside. The js and css files are hash-versioned with matching html tags injected in the index.html. The folder is ready to be copied directly to s3 or any other hosting bucket.
 
 
